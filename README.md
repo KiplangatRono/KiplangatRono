@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-##- 🔭 I’m currently working on ...school project
+## - 🔭 I’m currently working on ...school project
 - 🌱 I’m currently learning ...programming
 - 👯 I’m looking to collaborate on ...a school project
 - 🤔 I’m looking for help with ...programming
